@@ -1,0 +1,57 @@
+body {
+	background: url(bg.jpg) #000;
+	color: white;
+}
+a {
+	color: white;
+}
+h3 {
+	margin-top: 30px;
+}
+#header{
+	width: 100%;
+	height: 40px;
+	position: fixed;
+	top: 0px;
+	padding-top: 15px;
+	z-index:999;
+	background: #000;
+}
+#menu {
+	width: 500px;
+	float: left;
+	position: absolute;
+	left: 50%;
+	margin-left: -250px;
+}
+#menu a {
+	padding: 0 20px 0 20px;
+}
+#social {
+	width: 15%;
+	float: right;
+}
+#social img{
+	width: 25px;
+	height: 25px;
+	padding: 0 10px 0 10px;
+}
+#title {
+	margin-top: 100px;
+}
+#news img {
+	width: 100%;
+}
+#news p {
+	text-align: center;
+}
+#footer {
+	width: 100%;
+	height: 60px;
+	background: #000;
+	margin-top: 30px;
+	line-height: 60px;
+}
+#footer p {
+	margin: 0;
+}
