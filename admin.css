@@ -1,0 +1,22 @@
+body {
+	background: url(bg.jpg) #000;
+	color: white;
+}
+
+form {
+	margin-top: 50px;
+}
+
+label {
+	font-size: 20px;
+	cursor: pointer;
+}
+
+input {
+	margin-bottom: 0;
+	color: black;
+}
+
+#add-track, #add-clip {
+	margin-top: 37px;
+}
